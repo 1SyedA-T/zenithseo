@@ -7,6 +7,6 @@
   </defs>
   <polygon points="40,90 100,10 160,90" fill="url(#g)"/>
   <circle cx="100" cy="8" r="5" fill="#FFD700"/>
-  <text x="190" y="68" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="700" fill="#0A1633">Zenith</text>
-  <text x="190" y="92" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#0A1633">SEO</text>
+  <text x="190" y="68" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#0A1633">Zenith</text>
+  <text x="190" y="92" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0A1633">SEO</text>
 </svg>
