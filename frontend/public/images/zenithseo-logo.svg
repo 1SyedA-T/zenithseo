@@ -1,4 +1,12 @@
-<svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
-    <rect width="200" height="50" fill="black"/>
-    <text x="100" y="30" font-size="20" text-anchor="middle" fill="white">ZenithSEO</text>
-    </svg>
+<svg width="420" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0B63FF"/>
+      <stop offset="1" stop-color="#00C853"/>
+    </linearGradient>
+  </defs>
+  <polygon points="40,90 100,10 160,90" fill="url(#g)"/>
+  <circle cx="100" cy="8" r="5" fill="#FFD700"/>
+  <text x="190" y="68" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="700" fill="#0A1633">Zenith</text>
+  <text x="190" y="92" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#0A1633">SEO</text>
+</svg>
